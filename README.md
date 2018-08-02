@@ -1,6 +1,9 @@
 # Messy Datasets
-This repo contains various messy csv files, some of which already appeared in papers, and could be useful for using in experiments as 'benchmark' data.
+This repo contains various messy csv files, some of which already appeared in papers making them suitable to be used in experiments as 'benchmark' data.
 
-We also provide type annotations, such as integer number, date, etc., and meta-data.
+We also provide type annotations and meta-data for each dataset.
 
-In the files directory, we present a folder for each dataset, consisting of three parts: (i) a data file, (ii) a type annotation file, (iii) and a meta-data folder (hopefully).
+You can find the aforementioned information under the directory named 'files', consisting of three parts:
+- a data file, 
+- a type annotation file, 
+- a meta-data folder (hopefully).
